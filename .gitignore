@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+node_modules/
+*.exe
+*.o
+test_*.zip
+public/
+.ruff_cache/
